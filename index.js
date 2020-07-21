@@ -66,8 +66,12 @@ function promptUser() {
         //email
     {
         type: "input",
-        name: "questions",
+        name: "github",
         message: "Enter your GitHub username",
+    },
+    {
+        type: "input",
+        name: "email",
         message: "Enter your email"
     }
 
@@ -79,8 +83,25 @@ function promptUser() {
 
 //place answers in the proper place
 function generateREADME (answers) {
-    // return `
-    //  `
+    return `
+    TITLE: ${answers.title}
+    
+    DESCRIPTION: ${answers.description}
+
+    TABLE OF CONTENTS: ${answers.tableofcontents}
+
+    INSTALLATION: ${answers.installation}
+
+    USAGE: ${answers.usage}
+
+    LICENSE: ${answers.license}
+
+    CONTRIBUTING: ${answers.contributing}
+    
+    QUESTIONS: 
+    For any questions regarding the code used please refer to my GitHub page here: ${answers.github}
+    You can reach me personally by email at: ${answers.email}
+     `
 }
 
 // code to know what to do with input

@@ -94,7 +94,8 @@ function generateREADME (answers) {
 
     USAGE: ${answers.usage}
 
-    LICENSE: ${answers.license}
+    LICENSE: 
+    This application is covered under the following license(s) - ${answers.license}
 
     CONTRIBUTING: ${answers.contributing}
     

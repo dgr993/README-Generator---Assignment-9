@@ -45,7 +45,9 @@ function promptUser() {
     {
         type: "list",
         name: "license",
-        message: ""
+        message: "Enter the license(s) used for this application",
+        choices: ['![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)', '[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)']
+
     },
     //CONTRIBUTING contribution guidelines
     {
@@ -70,15 +72,15 @@ function promptUser() {
     }
 
 //include one badge that is specific to the repository
-//![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+//
     ]);
 }
 
 
 //place answers in the proper place
 function generateREADME (answers) {
-    return `
-     `
+    // return `
+    //  `
 }
 
 // code to know what to do with input

@@ -30,3 +30,23 @@ cons
 
 //include one badge that is specific to the repository
 //![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
+//place answers in the proper place
+function generateREADME (answers) {
+    return `
+     `
+}
+
+// code to know what to do with input
+promptUser ()
+    .then(function(answers) {
+        const README = generateREADME (answers) {
+            return writeFileAsync("README.md", README);
+        }
+    })
+    .then(function() {
+        console.log("Successfully wrote to README.md");
+    })
+    .catch(function(err) {
+        console.log(err);
+    })

@@ -1,17 +1,20 @@
 
-    TITLE: dsfsd
+    TITLE: 
     
-    DESCRIPTION: sdfsdf
+    DESCRIPTION: 
 
-    TABLE OF CONTENTS: sdfsdf
+    TABLE OF CONTENTS: 
 
-    INSTALLATION: sdfs
+    INSTALLATION: 
 
-    USAGE: sdfsd
+    USAGE: 
 
-    LICENSE: ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+    LICENSE: 
+    This application is covered under the following license(s) - (https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-    CONTRIBUTING: sdfsd
+    CONTRIBUTING: 
     
-    QUESTIONS: sdf
+    QUESTIONS: 
+    For any questions regarding the code used please refer to my GitHub page here: 
+    You can reach me personally by email at: 
      

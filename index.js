@@ -19,14 +19,6 @@ function promptUser() {
         name: "description",
         message: "Enter a description for your README"
     },
-    // TABLE OF CONTENTS
-        // with links for each section Description, Installation, Usage, Contributing, and Tests
-        // clicking on the links here take the user to the sections they click on.
-    {
-        type: "",
-        name: "tableofcontents",
-        message: ""
-    },
     // INSTALLATION instructions
     {
         type: "input",
@@ -64,6 +56,7 @@ function promptUser() {
     //QUESTIONS user inputs github username and email and instructions for how to reach me
         //github username and link to github of username entered
         //email
+    
     {
         type: "input",
         name: "github",
@@ -80,6 +73,10 @@ function promptUser() {
     ]);
 }
 
+ // TABLE OF CONTENTS
+        // with links for each section Description, Installation, Usage, Contributing, and Tests
+        // clicking on the links here take the user to the sections they click on.
+    
 
 //place answers in the proper place
 function generateREADME (answers) {
@@ -90,8 +87,13 @@ function generateREADME (answers) {
     
     DESCRIPTION: ${answers.description}
 
-    TABLE OF CONTENTS: ${answers.tableofcontents}
-
+    TABLE OF CONTENTS:
+    1. Installation ${answers.installation}
+    2. Usage ${answers.usage}
+    3. License ${answers.license}
+    4. Contributing${answers.contributing}
+    5. Questions ${answers.github}
+    
     INSTALLATION: ${answers.installation}
 
     USAGE: ${answers.usage}

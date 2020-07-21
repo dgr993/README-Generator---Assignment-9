@@ -102,8 +102,8 @@ function generateREADME (answers) {
     CONTRIBUTING: ${answers.contributing}
     
     QUESTIONS: 
-    For any questions regarding the code used please refer to my GitHub page here: ${answers.github}
-    You can reach me personally by email at: ${answers.email}
+    For any questions regarding the code used please refer to my GitHub page here: https://github.com/${answers.github}
+    For further questions you can reach me personally by email at: ${answers.email}
      `
 }
 

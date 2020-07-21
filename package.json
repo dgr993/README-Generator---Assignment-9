@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/dgr993/README-Generator---Assignment-9#readme",
   "dependencies": {
+    "fs": "0.0.1-security",
     "inquirer": "^7.3.2",
-    "prompts": "^2.3.2"
+    "prompts": "^2.3.2",
+    "util": "^0.12.3"
   }
 }

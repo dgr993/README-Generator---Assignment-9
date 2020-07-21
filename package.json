@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator---assignment-9",
+  "version": "1.0.0",
+  "description": "Node.js that generates a Complete README file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgr993/README-Generator---Assignment-9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgr993/README-Generator---Assignment-9/issues"
+  },
+  "homepage": "https://github.com/dgr993/README-Generator---Assignment-9#readme",
+  "dependencies": {
+    "inquirer": "^7.3.2",
+    "prompts": "^2.3.2"
+  }
+}

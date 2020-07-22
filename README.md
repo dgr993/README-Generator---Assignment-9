@@ -1,35 +1,35 @@
 
-![GitHub license](https://img.shields.io/badge/license-BSD%203-blue.svg)
-## TITLE: sdfsdfsd
+![GitHub license](https://img.shields.io/badge/license-NONE-blue.svg)
+## sdfasfa
 
-
-## DESCRIPTION: sdfd
+## DESCRIPTION:
+sdfas
 
 ## TABLE OF CONTENTS: 
-### 1. [Installation](#Installation) 
-### 2. [Usage](#Usage) 
-### 3. [License](#License) 
-### 4. [Contributing](#Contributing) 
-### 5. [Tests](#Tests)
-### 6. [Questions](#Questions) 
+#### 1. [Installation](#Installation) 
+#### 2. [Usage](#Usage) 
+#### 3. [License](#License) 
+#### 4. [Contributing](#Contributing) 
+#### 5. [Tests](#Tests)
+#### 6. [Questions](#Questions) 
 
 ## INSTALLATION:
-sdfdf
+sdfas
 
 ## USAGE:
-sdfd
+sdfa
 
 ## LICENSE:
-This application is covered under the following license(s) - BSD 3
+This application is covered under the following license(s) - NONE
 
 ## CONTRIBUTING:
-sdfsdfsd
+sdfdaf
 
 ## TESTS:
-sdfsd
+asdfs
 
 ## QUESTIONS:
-For any questions regarding the code used please refer to my GitHub page here: [dgr993](https://github.com/dgr993)
+For any questions regarding the code used please refer to my GitHub page here: [sdfasdf](https://github.com/sdfasdf)
 
-For further questions you can reach me personally by email at: dgr993@gmail.com
+For further questions you can reach me personally by email at: sdfasf
      

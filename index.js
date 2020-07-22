@@ -82,18 +82,18 @@ function promptUser() {
 function generateREADME (answers) {
     return `
 ![GitHub license](https://img.shields.io/badge/license-${encodeURI(answers.license)}-blue.svg)
-## TITLE: ${answers.title}
+## ${answers.title}
 
-
-## DESCRIPTION: ${answers.description}
+## DESCRIPTION:
+${answers.description}
 
 ## TABLE OF CONTENTS: 
-### 1. [Installation](#Installation) 
-### 2. [Usage](#Usage) 
-### 3. [License](#License) 
-### 4. [Contributing](#Contributing) 
-### 5. [Tests](#Tests)
-### 6. [Questions](#Questions) 
+#### 1. [Installation](#Installation) 
+#### 2. [Usage](#Usage) 
+#### 3. [License](#License) 
+#### 4. [Contributing](#Contributing) 
+#### 5. [Tests](#Tests)
+#### 6. [Questions](#Questions) 
 
 ## INSTALLATION:
 ${answers.installation}

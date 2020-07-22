@@ -1,5 +1,5 @@
 
-![GitHub license](https://img.shields.io/badge/license-BSD 3-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-APACHE%202.0-blue.svg)
 # TITLE: sdfsd
 
 
@@ -10,22 +10,22 @@
 ###2. [Usage](#Usage) 
 ###3. [License](#License) 
 ###4. [Contributing](#Contributing)
-###5. [Questions]($Questions) 
+###5. [Questions](#Questions) 
 
 # INSTALLATION:
-sdfsd
+sdfs
 
 # USAGE:
-sdfsd
+sdf
 
 # LICENSE:
-This application is covered under the following license(s) - BSD 3
+This application is covered under the following license(s) - APACHE 2.0
 
 # CONTRIBUTING:
 sdf
 
 # QUESTIONS:
-For any questions regarding the code used please refer to my GitHub page here: [Link to GitHub](https://github.com/sdf)
+For any questions regarding the code used please refer to my GitHub page here: [Link to GitHub](https://github.com/dgr993)
 
-For further questions you can reach me personally by email at: sdf
+For further questions you can reach me personally by email at: dgr993@gmail.com
      

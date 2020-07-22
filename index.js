@@ -81,7 +81,7 @@ function promptUser() {
 //place answers in the proper place
 function generateREADME (answers) {
     return `
-![GitHub license](https://img.shields.io/badge/license-${answers.license}-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-${encodeURI(answers.license)}-blue.svg)
 # TITLE: ${answers.title}
 
 
@@ -92,7 +92,7 @@ function generateREADME (answers) {
 ###2. [Usage](#Usage) 
 ###3. [License](#License) 
 ###4. [Contributing](#Contributing)
-###5. [Questions]($Questions) 
+###5. [Questions](#Questions) 
 
 # INSTALLATION:
 ${answers.installation}

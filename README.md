@@ -1,9 +1,9 @@
 
-![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-BSD%203-blue.svg)
 ## Test
 
 ## DESCRIPTION:
-Allows us to test a video
+For running test that you have to do twice
 
 ## TABLE OF CONTENTS: 
 #### 1. [Installation](#Installation)
@@ -14,19 +14,19 @@ Allows us to test a video
 #### 6. [Questions](#Questions) 
 
 ## INSTALLATION:
-install npm init, npm install inquirer, npm install fs, npm install util, npm install prompts
+npm init, npm install inquirer, npm install prompts, npm i util, npm i fs
 
 ## USAGE:
-to test a readme
+to create a wonderful looking readme
 
 ## LICENSE:
-This application is covered under the following license(s) - GPL 3.0
+This application is covered under the following license(s) - BSD 3
 
 ## CONTRIBUTING:
-running tests to make it test work
+Something to run test
 
 ## TESTS:
-whatever you want
+run in your node
 
 ## QUESTIONS:
 For any questions regarding the code used please refer to my GitHub page here: [dgr993](https://github.com/dgr993)

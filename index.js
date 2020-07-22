@@ -94,16 +94,19 @@ function generateREADME (answers) {
 ###4. [Contributing](#Contributing)
 ###5. [Questions]($Questions) 
 
-# INSTALLATION: ${answers.installation}
+# INSTALLATION:
+${answers.installation}
 
-# USAGE: ${answers.usage}
+# USAGE:
+${answers.usage}
 
-# LICENSE: 
+# LICENSE:
 This application is covered under the following license(s) - ${answers.license}
 
-# CONTRIBUTING: ${answers.contributing}
+# CONTRIBUTING:
+${answers.contributing}
 
-# QUESTIONS: 
+# QUESTIONS:
 For any questions regarding the code used please refer to my GitHub page here: [Link to GitHub](https://github.com/${answers.github})
 
 For further questions you can reach me personally by email at: ${answers.email}

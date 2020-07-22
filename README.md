@@ -1,35 +1,34 @@
 
-![GitHub license](https://img.shields.io/badge/license-NONE-blue.svg)
-## sdfasfa
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+## dsfsdaf
 
 ## DESCRIPTION:
-sdfas
+sdf
 
 ## TABLE OF CONTENTS: 
-#### 1. [Installation](#Installation) 
-#### 2. [Usage](#Usage) 
+#### 1. [Installation](#Installation) #### 2. [Usage](#Usage) 
 #### 3. [License](#License) 
 #### 4. [Contributing](#Contributing) 
 #### 5. [Tests](#Tests)
 #### 6. [Questions](#Questions) 
 
 ## INSTALLATION:
-sdfas
+asdf
 
 ## USAGE:
-sdfa
+asdf
 
 ## LICENSE:
-This application is covered under the following license(s) - NONE
+This application is covered under the following license(s) - MIT
 
 ## CONTRIBUTING:
-sdfdaf
+asdf
 
 ## TESTS:
-asdfs
+asdf
 
 ## QUESTIONS:
-For any questions regarding the code used please refer to my GitHub page here: [sdfasdf](https://github.com/sdfasdf)
+For any questions regarding the code used please refer to my GitHub page here: [sadf](https://github.com/sadf)
 
-For further questions you can reach me personally by email at: sdfasf
+For further questions you can reach me personally by email at: asdf
      

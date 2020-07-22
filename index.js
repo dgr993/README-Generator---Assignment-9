@@ -38,7 +38,7 @@ function promptUser() {
         type: "list",
         name: "license",
         message: "Enter the license(s) used for this application",
-        choices: ['(https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)', '[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)']
+        choices: ['MIT','APACHE 2.0','GPL 3.0','BSD 3','NONE']
 
     },
     //CONTRIBUTING contribution guidelines
@@ -81,31 +81,31 @@ function promptUser() {
 //place answers in the proper place
 function generateREADME (answers) {
     return `
-    ${answers.license}
-    TITLE: ${answers.title}
-    
-    
-    DESCRIPTION: ${answers.description}
+![GitHub license](https://img.shields.io/badge/license-${answers.license}-blue.svg)
+# TITLE: ${answers.title}
 
-    TABLE OF CONTENTS:
-    1. Installation ${answers.installation}
-    2. Usage ${answers.usage}
-    3. License ${answers.license}
-    4. Contributing${answers.contributing}
-    5. Questions ${answers.github}
-    
-    INSTALLATION: ${answers.installation}
 
-    USAGE: ${answers.usage}
+# DESCRIPTION: ${answers.description}
 
-    LICENSE: 
-    This application is covered under the following license(s) - ${answers.license}
+# TABLE OF CONTENTS:
+###1. *[Installation](#installation)
+###2. *[Usage](#usage) 
+###3. *[License](#License) 
+###4. *[CONTRIBUTING](#contributing)
+###5. [GitHub]($github) 
 
-    CONTRIBUTING: ${answers.contributing}
-    
-    QUESTIONS: 
-    For any questions regarding the code used please refer to my GitHub page here: https://github.com/${answers.github}
-    For further questions you can reach me personally by email at: ${answers.email}
+# INSTALLATION: ${answers.installation}
+
+# USAGE: ${answers.usage}
+
+# LICENSE: 
+This application is covered under the following license(s) - ${answers.license}
+
+# CONTRIBUTING: ${answers.contributing}
+
+# QUESTIONS: 
+For any questions regarding the code used please refer to my GitHub page here: [Link to GitHub](https://github.com/${answers.github})
+For further questions you can reach me personally by email at: ${answers.email}
      `
 }
 

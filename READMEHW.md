@@ -5,3 +5,6 @@ i ran into issues of changing design but resolved it with the markdown websites 
 
 to initiate document you must type node index.js into the terminal. then follow the prompts to create your readme.
 ![Initiate Readme](./assets/initiate%20in%20terminal.jpeg "Type Node.js into terminal to begin")
+
+Video
+![Tutorial Video](https://drive.google.com/file/d/11jDK6O057A2RaMqGVyQCaJvhz6Nr86Yi/view)

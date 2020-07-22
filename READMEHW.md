@@ -7,4 +7,4 @@ to initiate document you must type node index.js into the terminal. then follow 
 ![Initiate Readme](./assets/initiate%20in%20terminal.jpeg "Type Node.js into terminal to begin")
 
 Video
-[Tutorial Video](https://drive.google.com/file/d/11jDK6O057A2RaMqGVyQCaJvhz6Nr86Yi/view)
+[Tutorial Video](https://drive.google.com/file/d/195FJhZ0LKipS2cZtmrnvs3vtcMNYJ0Z3/view)

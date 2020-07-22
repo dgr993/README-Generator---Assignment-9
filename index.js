@@ -87,12 +87,13 @@ function generateREADME (answers) {
 
 # DESCRIPTION: ${answers.description}
 
-# TABLE OF CONTENTS:
-###1. [Installation](#Installation)
+# TABLE OF CONTENTS: 
+###1. [Installation](#Installation) 
 ###2. [Usage](#Usage) 
 ###3. [License](#License) 
-###4. [Contributing](#Contributing)
-###5. [Questions](#Questions) 
+###4. [Contributing](#Contributing) 
+###5. [Tests](#Tests)
+###6. [Questions](#Questions) 
 
 # INSTALLATION:
 ${answers.installation}
@@ -105,6 +106,9 @@ This application is covered under the following license(s) - ${answers.license}
 
 # CONTRIBUTING:
 ${answers.contributing}
+
+# TESTS:
+${answers.tests}
 
 # QUESTIONS:
 For any questions regarding the code used please refer to my GitHub page here: [Link to GitHub](https://github.com/${answers.github})

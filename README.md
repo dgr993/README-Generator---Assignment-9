@@ -1,28 +1,32 @@
 
-![GitHub license](https://img.shields.io/badge/license-APACHE%202.0-blue.svg)
-# TITLE: sdfsd
+![GitHub license](https://img.shields.io/badge/license-GPL%203.0-blue.svg)
+# TITLE: sdfsdf
 
 
-# DESCRIPTION: sdfsd
+# DESCRIPTION: sdfsdf
 
-# TABLE OF CONTENTS:
-###1. [Installation](#Installation)
+# TABLE OF CONTENTS: 
+###1. [Installation](#Installation) 
 ###2. [Usage](#Usage) 
 ###3. [License](#License) 
-###4. [Contributing](#Contributing)
-###5. [Questions](#Questions) 
+###4. [Contributing](#Contributing) 
+###5. [Tests](#Tests)
+###6. [Questions](#Questions) 
 
 # INSTALLATION:
-sdfs
+sdfsd
 
 # USAGE:
-sdf
+sdfs
 
 # LICENSE:
-This application is covered under the following license(s) - APACHE 2.0
+This application is covered under the following license(s) - GPL 3.0
 
 # CONTRIBUTING:
-sdf
+dsfsd
+
+# TESTS:
+sdfsdf
 
 # QUESTIONS:
 For any questions regarding the code used please refer to my GitHub page here: [Link to GitHub](https://github.com/dgr993)

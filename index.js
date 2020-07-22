@@ -88,7 +88,8 @@ function generateREADME (answers) {
 ${answers.description}
 
 ## TABLE OF CONTENTS: 
-#### 1. [Installation](#Installation) #### 2. [Usage](#Usage) 
+#### 1. [Installation](#Installation)
+#### 2. [Usage](#Usage) 
 #### 3. [License](#License) 
 #### 4. [Contributing](#Contributing) 
 #### 5. [Tests](#Tests)

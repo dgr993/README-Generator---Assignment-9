@@ -82,36 +82,36 @@ function promptUser() {
 function generateREADME (answers) {
     return `
 ![GitHub license](https://img.shields.io/badge/license-${encodeURI(answers.license)}-blue.svg)
-# TITLE: ${answers.title}
+## TITLE: ${answers.title}
 
 
-# DESCRIPTION: ${answers.description}
+## DESCRIPTION: ${answers.description}
 
-# TABLE OF CONTENTS: 
-###1. [Installation](#Installation) 
-###2. [Usage](#Usage) 
-###3. [License](#License) 
-###4. [Contributing](#Contributing) 
-###5. [Tests](#Tests)
-###6. [Questions](#Questions) 
+## TABLE OF CONTENTS: 
+### 1. [Installation](#Installation) 
+### 2. [Usage](#Usage) 
+### 3. [License](#License) 
+### 4. [Contributing](#Contributing) 
+### 5. [Tests](#Tests)
+### 6. [Questions](#Questions) 
 
-# INSTALLATION:
+## INSTALLATION:
 ${answers.installation}
 
-# USAGE:
+## USAGE:
 ${answers.usage}
 
-# LICENSE:
+## LICENSE:
 This application is covered under the following license(s) - ${answers.license}
 
-# CONTRIBUTING:
+## CONTRIBUTING:
 ${answers.contributing}
 
-# TESTS:
+## TESTS:
 ${answers.tests}
 
-# QUESTIONS:
-For any questions regarding the code used please refer to my GitHub page here: [Link to GitHub](https://github.com/${answers.github})
+## QUESTIONS:
+For any questions regarding the code used please refer to my GitHub page here: [${answers.github}](https://github.com/${answers.github})
 
 For further questions you can reach me personally by email at: ${answers.email}
      `
